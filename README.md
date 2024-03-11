@@ -3,7 +3,7 @@ Ez a könyvtár tartalmazza a záródolgozat (Dockery Robert) tartalmát
 
 A word dokumentum már nagyjából kész, bár a kód gyakori változásai miatt, lehetségesen ki kell egészítenem
 Már csak a margók beállítása maradt hátra(tükörmargó) - kötésmargó nem kell csak bal oldali 3,5 minden más 2,5
---Ellenőrzés (https://plagi.hu/)--
+-- Ellenőrzés (https://plagi.hu/) --
 
 A weboldalnál egy problémába ütköztem bele, eleinte ezt megoldottam, de valamiért a carousel-indicatorok nem igazodnak
 Sok nem használt kódsor/parancs található, de azok többnyire megjegyzések (semmiféle képpen sem (elvileg) hatnak a weblapra)
